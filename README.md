@@ -112,9 +112,12 @@ I work on the **infrastructure side for clients**: networking and campus access,
 ## 📊 Stats
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kevin-Roa04&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Kevin-Roa04&theme=tokyonight" alt="streak"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Roa04&layout=compact&langs_count=8&theme=tokyonight" alt="top langs"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevin-Roa04&theme=tokyo-night" alt="activity graph"/>
+</p>
 
 ---
 
